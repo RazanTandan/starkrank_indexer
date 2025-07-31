@@ -4,8 +4,8 @@ A Node.js indexer that processes Starknet smart contract events from contracts u
 
 ## 📋 Prerequisites
 
-- Node.js (v16 or higher)
-- npm or yarn
+- Node.js
+- npm
 - Infura Starknet API key
 - starknet.js
 - better-sqlite3
