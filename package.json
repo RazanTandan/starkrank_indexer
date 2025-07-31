@@ -1,0 +1,19 @@
+{
+  "name": "starknetjs-exp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "dotenv": "^17.2.1",
+    "starknet": "^7.6.4",
+    "websocket": "^1.0.35"
+  }
+}
