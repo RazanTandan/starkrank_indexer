@@ -14,8 +14,8 @@ A Node.js indexer that processes Starknet smart contract events from contracts u
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/starknet-event-indexer.git
-   cd starknet-event-indexer
+   git clone https://github.com/RazanTandan/starkrank_indexer.git
+   cd starkrank_indexer
    ```
 
 2. **Install dependencies**
